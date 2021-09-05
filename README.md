@@ -2,7 +2,15 @@
 ROS Package for PARROT AR DRONE 1.0
 
 I will explain soon how it works,
-this ros package is intend to be used for ROS MELODIC. and is based in https://github.com/venthur/python-ardrone project
+this ros package is intend to be used for ROS MELODIC. and is based in https://github.com/venthur/python-ardrone proje
+
+To install go to your ROS src folder an clone de REPOSITORY. 
+
+Proceed to create a virtualenv env and source from it
+
+Then install the python requeriments, After that you can compile the project
+
+This project will need to be in the virtual env to work properly
 
 The library  ffmpeg need to be installed to be able to receive the Drone Camera Image
 ```
