@@ -5,8 +5,9 @@ I will explain soon how it works,
 this ros package is intend to be used for ROS MELODIC. and is based in https://github.com/venthur/python-ardrone project
 
 The library  ffmpeg need to be installed to be able to receive the Drone Camera Image
+```
 sudo apt install  ffmpeg
-
+```
 #TODO I still don't know why is not publishing the navdata, but i will continue
 working on it the next weekend.
 
