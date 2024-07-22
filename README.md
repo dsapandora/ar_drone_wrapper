@@ -1,6 +1,8 @@
 
 # ar_drone_wrapper
 
+![AR Drone Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQODBmSrZuvsxQnL23OxvIM5AQgKZUDjgQmgg&s)
+
 ## Overview
 
 This repository contains a ROS package for controlling the Parrot AR Drone 1.0. The package is intended to be used with ROS Melodic and is based on the [python-ardrone project](https://github.com/venthur/python-ardrone).
